@@ -59,7 +59,7 @@ It provides:
  ---
 
  
-## 🚀 Installation & Setup
+## Installation & Setup
 1. Clone the repository:
    bash
    git clone https://github.com/Anucs1304/smart-bug-tracker.git
@@ -82,3 +82,9 @@ It provides:
    uvicorn api.app:app --reload
 2. Open the interactive API docs in your browser:
    Swagger UI: http://127.0.0.1:8000/docs
+
+## Datset
+The dataset 'immo_data.csv' is excluded from this repository due to GitHub's file size limits.
+You can download it from the original source her: [Real-estate-markets-Germany/immo_data.csv] (https://github.com/Adeniyi-Bella/Real-estate-markets-Germany/blob/master/immo_data.csv)
+
+Once downloaded, place the file in the 'data/raw/' directory before running the project
