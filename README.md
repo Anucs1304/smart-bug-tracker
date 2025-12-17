@@ -62,8 +62,8 @@ It provides:
 ## 🚀 Installation & Setup
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/SMART-BUG-TRACKER.git
-   cd SMART-BUG-TRACKER
+   git clone https://github.com/Anucs1304/smart-bug-tracker.git
+   cd smart-bug-tracker
 
 2. Create a virtual environment and install dependencies:
    conda create -n bugtracker python=3.9
